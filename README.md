@@ -1,6 +1,6 @@
 # skin.osmc
 
-The default skin for OSMC
+A variant of the default skin for OSMC
 
 ## This skin is shipped with official releases of OSMC (https://osmc.tv/download/).
 

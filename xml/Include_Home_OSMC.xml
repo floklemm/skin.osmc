@@ -6,9 +6,9 @@
 		<include>skinshortcuts-template-widgetControl</include>
 
 		<!-- Main list -->
-		<control type="list" id="9000">
+		<control type="wraplist" id="9000">
 			<include>Home_coords1</include>
-			<focusposition>7</focusposition>
+			<focusposition>1</focusposition>
 			<defaultcontrol>1</defaultcontrol>
 			<onup>9000</onup>
 			<ondown>9000</ondown>

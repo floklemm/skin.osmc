@@ -29,24 +29,24 @@
 		<font>
 			<name>Font50</name>
 			<filename>SourceSansPro-Regular.ttf</filename>
-			<size>50</size>
+			<size>58</size>
 		</font>
 		<font>
 			<name>Font50-bold</name>
 			<filename>SourceSansPro-Regular.ttf</filename>
-			<size>50</size>
+			<size>58</size>
 			<style>bold</style>
 		</font>
 		<font>
 			<name>Font50-light</name>
 			<filename>SourceSansPro-Regular.ttf</filename>
-			<size>50</size>
+			<size>58</size>
 			<style>lighten</style>
 		</font>
 		<font>
 			<name>Font50-italic</name>
 			<filename>SourceSansPro-Regular.ttf</filename>
-			<size>50</size>
+			<size>58</size>
 			<style>italics</style>
 		</font>
 		<font>

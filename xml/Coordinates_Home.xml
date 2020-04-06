@@ -87,10 +87,11 @@
 		<include condition="String.IsEqual(Skin.AspectRatio,4:3)">Home_coords1_4:3</include>
 	</include>
 	<include name="Home_coords1_16:9">
+	<!-- t458, h291 -->
 		<left>120</left>
-		<top>240</top>
+		<top>590</top>
 		<width>400</width>
-		<height>679</height>
+		<height>291</height>
 	</include>
 	<include name="Home_coords1_21:9">
 		<left>120</left>
